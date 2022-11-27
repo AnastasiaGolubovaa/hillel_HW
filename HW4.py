@@ -25,3 +25,4 @@ b = str(number % 100 // 10)
 c = str(number % 10)
 print(c + b + a)
 reversed_number = (c + b + a)
+
