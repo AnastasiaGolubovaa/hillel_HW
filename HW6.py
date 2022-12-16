@@ -6,7 +6,6 @@
 #     print("-")
 
 #2
-#
 # def WordPresent(sentence, word):
 #     text = sentence.split(" ")
 #     for i in text:

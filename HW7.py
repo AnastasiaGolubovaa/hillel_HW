@@ -54,12 +54,10 @@
 #         minimum = A
 # print("minimum:",round(minimum,2),"maximum:",round(maximum,2))
 
-
 #7
 # text = str(input("Enter a text: "))
 # num = [int(i) for i in text.split() if i.isdigit()]
 # print(len(num))
-
 
 
 
