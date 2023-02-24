@@ -15,7 +15,6 @@ spring = [3, 4, 5]
 summer = [6, 7, 8]
 fall = [9, 10, 11]
 
-
 @pytest.mark.param
 @pytest.mark.parametrize("all_levels", ["first", "second", "third", "fourth", "fifth"])
 def test_levels(all_levels):
