@@ -17,7 +17,7 @@ class Rectangle(Shape):
         for _ in range(self.height):
             print('*' * self.width)
 
-shapes = [Triangle(5), Rectangle(4, 3)]
+shapes = [Triangle(10), Rectangle(5, 4)]
 
 for shape in shapes:
     shape.draw()
